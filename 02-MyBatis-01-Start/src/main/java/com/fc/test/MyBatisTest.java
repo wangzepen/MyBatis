@@ -67,7 +67,7 @@ public class MyBatisTest {
     @Test
     public void testDao(){
         try {
-            
+
             //读取配置
             InputStream inputStream = Resources.getResourceAsStream("mybatis-config.xml");
             //获取会话工厂
@@ -86,6 +86,7 @@ public class MyBatisTest {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
 
 
     }
