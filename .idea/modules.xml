@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-01-Start/02-MyBatis-01-Start.iml" filepath="$PROJECT_DIR$/02-MyBatis-01-Start/02-MyBatis-01-Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-MyBatis-02-More-Mapper/02-MyBatis-02-More-Mapper.iml" filepath="$PROJECT_DIR$/02-MyBatis-02-More-Mapper/02-MyBatis-02-More-Mapper.iml" />
     </modules>
   </component>
 </project>
