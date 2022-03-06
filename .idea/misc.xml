@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/02-MyBatis-01-Start/pom.xml" />
         <option value="$PROJECT_DIR$/02-MyBatis-02-More-Mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/02-MyBatist-03-Character/pom.xml" />
       </list>
     </option>
   </component>
