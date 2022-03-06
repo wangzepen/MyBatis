@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="02-MyBatis-04-Placeholder" />
-        <module name="02-MyBatis-01-Start" />
         <module name="02-MyBatis-02-More-Mapper" />
-        <module name="02-MyBatist-03-Character" />
         <module name="02-MyBatis-05-Properties" />
+        <module name="02-MyBatis-01-Start" />
+        <module name="02-MyBatist-03-Character" />
+        <module name="02-MyBatis-07-Log" />
+        <module name="02-MyBatis-06-Alias" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -18,6 +20,8 @@
       <module name="02-MyBatis-02-More-Mapper" target="1.8" />
       <module name="02-MyBatis-04-Placeholder" target="1.8" />
       <module name="02-MyBatis-05-Properties" target="1.8" />
+      <module name="02-MyBatis-06-Alias" target="1.8" />
+      <module name="02-MyBatis-07-Log" target="1.8" />
       <module name="02-MyBatist-03-Character" target="1.8" />
     </bytecodeTargetLevel>
   </component>
