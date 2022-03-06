@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/02-MyBatis-05-Properties/pom.xml" />
         <option value="$PROJECT_DIR$/02-MyBatis-06-Alias/pom.xml" />
         <option value="$PROJECT_DIR$/02-MyBatis-07-Log/pom.xml" />
+        <option value="$PROJECT_DIR$/02-MyBatis-08-Bind/pom.xml" />
       </list>
     </option>
   </component>
