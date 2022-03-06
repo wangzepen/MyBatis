@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/02-MyBatis-06-Alias/pom.xml" />
         <option value="$PROJECT_DIR$/02-MyBatis-07-Log/pom.xml" />
         <option value="$PROJECT_DIR$/02-MyBatis-08-Bind/pom.xml" />
+        <option value="$PROJECT_DIR$/02-MyBatis-09-CRUD/pom.xml" />
       </list>
     </option>
   </component>

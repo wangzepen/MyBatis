@@ -6,6 +6,16 @@
 <configuration>
 <!--    导入了jdbc的配置文件-->
     <properties resource="jdbc.properties"/>
+    
+    <settings>
+        <!--配置log4j日志-->
+        <setting name="logImpl" value="LOG4J2"/>
+    </settings>
+
+    <!--    声明类型的别名-->
+    <typeAliases>
+        <typeAlias type="com.fc.entity.Student" alias="Student"/>
+    </typeAliases>
 
     <!--mybatis运行环境配置-->
     <environments default="development">
