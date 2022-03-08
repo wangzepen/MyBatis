@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-07-Log/02-MyBatis-07-Log.iml" filepath="$PROJECT_DIR$/02-MyBatis-07-Log/02-MyBatis-07-Log.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-08-Bind/02-MyBatis-08-Bind.iml" filepath="$PROJECT_DIR$/02-MyBatis-08-Bind/02-MyBatis-08-Bind.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-09-CRUD/02-MyBatis-09-CRUD.iml" filepath="$PROJECT_DIR$/02-MyBatis-09-CRUD/02-MyBatis-09-CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-MyBatis-10-Util/02-MyBatis-10-Util.iml" filepath="$PROJECT_DIR$/02-MyBatis-10-Util/02-MyBatis-10-Util.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatist-03-Character/02-MyBatist-03-Character.iml" filepath="$PROJECT_DIR$/02-MyBatist-03-Character/02-MyBatist-03-Character.iml" />
     </modules>
   </component>

@@ -14,6 +14,7 @@
         <module name="02-MyBatist-03-Character" />
         <module name="02-MyBatis-07-Log" />
         <module name="02-MyBatis-06-Alias" />
+        <module name="02-MyBatis-10-Util" />
         <module name="02-MyBatis-09-CRUD" />
       </profile>
     </annotationProcessing>
@@ -26,6 +27,7 @@
       <module name="02-MyBatis-07-Log" target="1.8" />
       <module name="02-MyBatis-08-Bind" target="1.8" />
       <module name="02-MyBatis-09-CRUD" target="1.8" />
+      <module name="02-MyBatis-10-Util" target="1.8" />
       <module name="02-MyBatist-03-Character" target="1.8" />
     </bytecodeTargetLevel>
   </component>
