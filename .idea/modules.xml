@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-10-Util/02-MyBatis-10-Util.iml" filepath="$PROJECT_DIR$/02-MyBatis-10-Util/02-MyBatis-10-Util.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-11-ORM/02-MyBatis-11-ORM.iml" filepath="$PROJECT_DIR$/02-MyBatis-11-ORM/02-MyBatis-11-ORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-12-Multi-Table/02-MyBatis-12-Multi-Table.iml" filepath="$PROJECT_DIR$/02-MyBatis-12-Multi-Table/02-MyBatis-12-Multi-Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-MyBatis-13-Dynamic-SQL/02-MyBatis-13-Dynamic-SQL.iml" filepath="$PROJECT_DIR$/02-MyBatis-13-Dynamic-SQL/02-MyBatis-13-Dynamic-SQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatist-03-Character/02-MyBatist-03-Character.iml" filepath="$PROJECT_DIR$/02-MyBatist-03-Character/02-MyBatist-03-Character.iml" />
     </modules>
   </component>
