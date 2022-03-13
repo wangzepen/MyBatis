@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-15-PageHelper/02-MyBatis-15-PageHelper.iml" filepath="$PROJECT_DIR$/02-MyBatis-15-PageHelper/02-MyBatis-15-PageHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-16-Druid/02-MyBatis-16-Druid.iml" filepath="$PROJECT_DIR$/02-MyBatis-16-Druid/02-MyBatis-16-Druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatis-17-Annotation/02-MyBatis-17-Annotation.iml" filepath="$PROJECT_DIR$/02-MyBatis-17-Annotation/02-MyBatis-17-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-MyBatis-18-Lazy/02-MyBatis-18-Lazy.iml" filepath="$PROJECT_DIR$/02-MyBatis-18-Lazy/02-MyBatis-18-Lazy.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-MyBatist-03-Character/02-MyBatist-03-Character.iml" filepath="$PROJECT_DIR$/02-MyBatist-03-Character/02-MyBatist-03-Character.iml" />
     </modules>
   </component>
