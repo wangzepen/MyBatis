@@ -19,6 +19,7 @@
         <module name="02-MyBatis-04-Placeholder" />
         <module name="02-MyBatis-02-More-Mapper" />
         <module name="02-MyBatis-16-Druid" />
+        <module name="03-Spring-02-Bean-Name" />
         <module name="02-MyBatis-19-Generator" />
         <module name="02-MyBatis-14-Cache" />
         <module name="02-MyBatis-01-Start" />
@@ -49,6 +50,7 @@
       <module name="02-MyBatis-19-Generator" target="1.8" />
       <module name="02-MyBatist-03-Character" target="1.8" />
       <module name="03-Spring-01-Start" target="1.8" />
+      <module name="03-Spring-02-Bean-Name" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
