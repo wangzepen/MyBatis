@@ -13,6 +13,7 @@
         <module name="02-MyBatist-03-Character" />
         <module name="02-MyBatis-06-Alias" />
         <module name="02-MyBatis-10-Util" />
+        <module name="03-Spring-03-Create" />
         <module name="02-MyBatis-09-CRUD" />
         <module name="02-MyBatis-13-Dynamic-SQL" />
         <module name="02-MyBatis-17-Annotation" />
@@ -51,6 +52,7 @@
       <module name="02-MyBatist-03-Character" target="1.8" />
       <module name="03-Spring-01-Start" target="1.8" />
       <module name="03-Spring-02-Bean-Name" target="1.8" />
+      <module name="03-Spring-03-Create" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
