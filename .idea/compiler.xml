@@ -26,6 +26,7 @@
         <module name="02-MyBatis-18-Lazy" />
         <module name="02-MyBatis-05-Properties" />
         <module name="03-Spring-01-Start" />
+        <module name="03-Spring-07-DI-01-Constructor" />
         <module name="02-MyBatis-06-Alias" />
         <module name="02-MyBatis-16-Druid" />
         <module name="02-MyBatis-01-Start" />
@@ -59,6 +60,7 @@
       <module name="03-Spring-04-Scope" target="1.8" />
       <module name="03-Spring-05-Lifecycle" target="1.8" />
       <module name="03-Spring-06-Lazy" target="1.8" />
+      <module name="03-Spring-07-DI-01-Constructor" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
