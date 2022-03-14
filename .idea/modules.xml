@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/03-Spring-02-Bean-Name/03-Spring-02-Bean-Name.iml" filepath="$PROJECT_DIR$/03-Spring-02-Bean-Name/03-Spring-02-Bean-Name.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-03-Create/03-Spring-03-Create.iml" filepath="$PROJECT_DIR$/03-Spring-03-Create/03-Spring-03-Create.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-04-Scope/03-Spring-04-Scope.iml" filepath="$PROJECT_DIR$/03-Spring-04-Scope/03-Spring-04-Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Spring-05-Lifecycle/03-Spring-05-Lifecycle.iml" filepath="$PROJECT_DIR$/03-Spring-05-Lifecycle/03-Spring-05-Lifecycle.iml" />
     </modules>
   </component>
 </project>

@@ -10,6 +10,7 @@
         <module name="02-MyBatis-05-Properties" />
         <module name="03-Spring-01-Start" />
         <module name="02-MyBatis-15-PageHelper" />
+        <module name="03-Spring-05-Lifecycle" />
         <module name="02-MyBatist-03-Character" />
         <module name="02-MyBatis-06-Alias" />
         <module name="02-MyBatis-10-Util" />
@@ -55,6 +56,7 @@
       <module name="03-Spring-02-Bean-Name" target="1.8" />
       <module name="03-Spring-03-Create" target="1.8" />
       <module name="03-Spring-04-Scope" target="1.8" />
+      <module name="03-Spring-05-Lifecycle" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
