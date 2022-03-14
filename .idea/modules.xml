@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/03-Spring-05-Lifecycle/03-Spring-05-Lifecycle.iml" filepath="$PROJECT_DIR$/03-Spring-05-Lifecycle/03-Spring-05-Lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-06-Lazy/03-Spring-06-Lazy.iml" filepath="$PROJECT_DIR$/03-Spring-06-Lazy/03-Spring-06-Lazy.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-01-Constructor/03-Spring-07-DI-01-Constructor.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-01-Constructor/03-Spring-07-DI-01-Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-02-Set/03-Spring-07-DI-02-Set.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-02-Set/03-Spring-07-DI-02-Set.iml" />
     </modules>
   </component>
 </project>
