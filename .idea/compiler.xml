@@ -30,6 +30,7 @@
         <module name="02-MyBatis-05-Properties" />
         <module name="03-Spring-01-Start" />
         <module name="03-Spring-07-DI-01-Constructor" />
+        <module name="03-Spring-07-DI-05-Annotation" />
         <module name="02-MyBatis-06-Alias" />
         <module name="02-MyBatis-16-Druid" />
         <module name="02-MyBatis-01-Start" />
@@ -67,6 +68,7 @@
       <module name="03-Spring-07-DI-02-Set" target="1.8" />
       <module name="03-Spring-07-DI-03-ComplexType" target="1.8" />
       <module name="03-Spring-07-DI-04-Annotation" target="1.8" />
+      <module name="03-Spring-07-DI-05-Annotation" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
