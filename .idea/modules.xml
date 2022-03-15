@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-01-Constructor/03-Spring-07-DI-01-Constructor.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-01-Constructor/03-Spring-07-DI-01-Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-02-Set/03-Spring-07-DI-02-Set.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-02-Set/03-Spring-07-DI-02-Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-03-ComplexType/03-Spring-07-DI-03-ComplexType.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-03-ComplexType/03-Spring-07-DI-03-ComplexType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-04-Annotation/03-Spring-07-DI-04-Annotation.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-04-Annotation/03-Spring-07-DI-04-Annotation.iml" />
     </modules>
   </component>
 </project>
