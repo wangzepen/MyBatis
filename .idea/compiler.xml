@@ -9,6 +9,7 @@
         <module name="02-MyBatis-08-Bind" />
         <module name="04-DesignPattern-01-Proxy" />
         <module name="03-Spring-07-DI-04-Annotation" />
+        <module name="03-Spring-09-AOP-00-Start" />
         <module name="03-Spring-07-DI-02-Set" />
         <module name="02-MyBatis-15-PageHelper" />
         <module name="03-Spring-05-Lifecycle" />
@@ -74,6 +75,7 @@
       <module name="03-Spring-07-DI-05-Annotation" target="1.8" />
       <module name="03-Spring-08-JDBC-01-XML" target="1.8" />
       <module name="03-Spring-08-JDBC-02-Annotation" target="1.8" />
+      <module name="03-Spring-09-AOP-00-Start" target="1.8" />
       <module name="04-DesignPattern-01-Proxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>

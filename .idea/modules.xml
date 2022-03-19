@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/03-Spring-07-DI-05-Annotation/03-Spring-07-DI-05-Annotation.iml" filepath="$PROJECT_DIR$/03-Spring-07-DI-05-Annotation/03-Spring-07-DI-05-Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-08-JDBC-01-XML/03-Spring-08-JDBC-01-XML.iml" filepath="$PROJECT_DIR$/03-Spring-08-JDBC-01-XML/03-Spring-08-JDBC-01-XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-08-JDBC-02-Annotation/03-Spring-08-JDBC-02-Annotation.iml" filepath="$PROJECT_DIR$/03-Spring-08-JDBC-02-Annotation/03-Spring-08-JDBC-02-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Spring-09-AOP-00-Start/03-Spring-09-AOP-00-Start.iml" filepath="$PROJECT_DIR$/03-Spring-09-AOP-00-Start/03-Spring-09-AOP-00-Start.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-DesignPattern-01-Proxy/04-DesignPattern-01-Proxy.iml" filepath="$PROJECT_DIR$/04-DesignPattern-01-Proxy/04-DesignPattern-01-Proxy.iml" />
     </modules>
   </component>
