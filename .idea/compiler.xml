@@ -28,10 +28,12 @@
         <module name="02-MyBatis-14-Cache" />
         <module name="03-Spring-04-Scope" />
         <module name="03-Spring-07-DI-03-ComplexType" />
+        <module name="03-Spring-10-Transaction-01-Programming" />
         <module name="02-MyBatis-11-ORM" />
         <module name="03-Spring-06-Lazy" />
         <module name="02-MyBatis-18-Lazy" />
         <module name="02-MyBatis-05-Properties" />
+        <module name="03-Spring-09-AOP-02-Annotation" />
         <module name="03-Spring-01-Start" />
         <module name="03-Spring-07-DI-01-Constructor" />
         <module name="03-Spring-07-DI-05-Annotation" />
@@ -78,6 +80,8 @@
       <module name="03-Spring-08-JDBC-02-Annotation" target="1.8" />
       <module name="03-Spring-09-AOP-00-Start" target="1.8" />
       <module name="03-Spring-09-AOP-01-XML" target="1.8" />
+      <module name="03-Spring-09-AOP-02-Annotation" target="1.8" />
+      <module name="03-Spring-10-Transaction-01-Programming" target="1.8" />
       <module name="04-DesignPattern-01-Proxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
