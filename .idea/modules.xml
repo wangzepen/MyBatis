@@ -40,6 +40,8 @@
       <module fileurl="file://$PROJECT_DIR$/03-Spring-10-Transaction-01-Programming/03-Spring-10-Transaction-01-Programming.iml" filepath="$PROJECT_DIR$/03-Spring-10-Transaction-01-Programming/03-Spring-10-Transaction-01-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-10-Transaction-02-XML/03-Spring-10-Transaction-02-XML.iml" filepath="$PROJECT_DIR$/03-Spring-10-Transaction-02-XML/03-Spring-10-Transaction-02-XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-DesignPattern-01-Proxy/04-DesignPattern-01-Proxy.iml" filepath="$PROJECT_DIR$/04-DesignPattern-01-Proxy/04-DesignPattern-01-Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-01-Start/_05-SpringMVC-01-Start.iml" filepath="$PROJECT_DIR$/05-SpringMVC-01-Start/_05-SpringMVC-01-Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/_05-SpringMVC-02-RequestMapping.iml" filepath="$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/_05-SpringMVC-02-RequestMapping.iml" />
     </modules>
   </component>
 </project>
