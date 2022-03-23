@@ -40,6 +40,11 @@
       <module fileurl="file://$PROJECT_DIR$/03-Spring-10-Transaction-01-Programming/03-Spring-10-Transaction-01-Programming.iml" filepath="$PROJECT_DIR$/03-Spring-10-Transaction-01-Programming/03-Spring-10-Transaction-01-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Spring-10-Transaction-02-XML/03-Spring-10-Transaction-02-XML.iml" filepath="$PROJECT_DIR$/03-Spring-10-Transaction-02-XML/03-Spring-10-Transaction-02-XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-DesignPattern-01-Proxy/04-DesignPattern-01-Proxy.iml" filepath="$PROJECT_DIR$/04-DesignPattern-01-Proxy/04-DesignPattern-01-Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-03-Param/05-SpringMVC-03-Param.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-03-Param/05-SpringMVC-03-Param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-04-Encoding/05-SpringMVC-04-Encoding.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-04-Encoding/05-SpringMVC-04-Encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-05-Date/05-SpringMVC-05-Date.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-05-Date/05-SpringMVC-05-Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-06-ViewResolver/05-SpringMVC-06-ViewResolver.iml" filepath="$PROJECT_DIR$/05-SpringMVC-06-ViewResolver/05-SpringMVC-06-ViewResolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-07-ResponseData/05-SpringMVC-07-ResponseData.iml" filepath="$PROJECT_DIR$/05-SpringMVC-07-ResponseData/05-SpringMVC-07-ResponseData.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-01-Start/_05-SpringMVC-01-Start.iml" filepath="$PROJECT_DIR$/05-SpringMVC-01-Start/_05-SpringMVC-01-Start.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/_05-SpringMVC-02-RequestMapping.iml" filepath="$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/_05-SpringMVC-02-RequestMapping.iml" />
     </modules>

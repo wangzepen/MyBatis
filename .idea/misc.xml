@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-03-Param" />
+    <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-04-Encoding" />
+    <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-05-Date" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-01-Start" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-02-RequestMapping" />
+    <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-06-ViewResolver" />
+    <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-07-ResponseData" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -47,6 +52,11 @@
         <option value="$PROJECT_DIR$/03-Spring-10-Transaction-02-XML/pom.xml" />
         <option value="$PROJECT_DIR$/05-SpringMVC-01-Start/pom.xml" />
         <option value="$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../05-SpringMVC-03-Param/pom.xml" />
+        <option value="$PROJECT_DIR$/../05-SpringMVC-04-Encoding/pom.xml" />
+        <option value="$PROJECT_DIR$/../05-SpringMVC-05-Date/pom.xml" />
+        <option value="$PROJECT_DIR$/05-SpringMVC-06-ViewResolver/pom.xml" />
+        <option value="$PROJECT_DIR$/05-SpringMVC-07-ResponseData/pom.xml" />
       </list>
     </option>
   </component>
