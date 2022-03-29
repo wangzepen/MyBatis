@@ -4,10 +4,13 @@
     <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-03-Param" />
     <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-04-Encoding" />
     <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-05-Date" />
+    <file type="web" url="file://$PROJECT_DIR$/../05-SpringMVC-08-OtherAnnotation" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-01-Start" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-02-RequestMapping" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-06-ViewResolver" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-07-ResponseData" />
+    <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-09-Ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -57,6 +60,9 @@
         <option value="$PROJECT_DIR$/../05-SpringMVC-05-Date/pom.xml" />
         <option value="$PROJECT_DIR$/05-SpringMVC-06-ViewResolver/pom.xml" />
         <option value="$PROJECT_DIR$/05-SpringMVC-07-ResponseData/pom.xml" />
+        <option value="$PROJECT_DIR$/../05-SpringMVC-08-OtherAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/05-SpringMVC-09-Ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-01-Wyy/pom.xml" />
       </list>
     </option>
   </component>

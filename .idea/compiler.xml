@@ -16,6 +16,7 @@
         <module name="03-Spring-05-Lifecycle" />
         <module name="02-MyBatist-03-Character" />
         <module name="05-SpringMVC-06-ViewResolver" />
+        <module name="05-SpringMVC-09-Ajax" />
         <module name="03-Spring-08-JDBC-02-Annotation" />
         <module name="05-SpringMVC-07-ResponseData" />
         <module name="02-MyBatis-10-Util" />
@@ -26,7 +27,9 @@
         <module name="02-MyBatis-04-Placeholder" />
         <module name="02-MyBatis-02-More-Mapper" />
         <module name="03-Spring-02-Bean-Name" />
+        <module name="05-SpringMVC-08-OtherAnnotation" />
         <module name="02-MyBatis-19-Generator" />
+        <module name="06-SSM-01-Wyy" />
         <module name="03-Spring-08-JDBC-01-XML" />
         <module name="02-MyBatis-14-Cache" />
         <module name="03-Spring-04-Scope" />
@@ -97,6 +100,9 @@
       <module name="05-SpringMVC-05-Date" target="1.8" />
       <module name="05-SpringMVC-06-ViewResolver" target="1.8" />
       <module name="05-SpringMVC-07-ResponseData" target="1.8" />
+      <module name="05-SpringMVC-08-OtherAnnotation" target="1.8" />
+      <module name="05-SpringMVC-09-Ajax" target="1.8" />
+      <module name="06-SSM-01-Wyy" target="1.8" />
       <module name="_05-SpringMVC-01-Start" target="1.8" />
       <module name="_05-SpringMVC-02-RequestMapping" target="1.8" />
     </bytecodeTargetLevel>

@@ -45,6 +45,9 @@
       <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-05-Date/05-SpringMVC-05-Date.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-05-Date/05-SpringMVC-05-Date.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-06-ViewResolver/05-SpringMVC-06-ViewResolver.iml" filepath="$PROJECT_DIR$/05-SpringMVC-06-ViewResolver/05-SpringMVC-06-ViewResolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-07-ResponseData/05-SpringMVC-07-ResponseData.iml" filepath="$PROJECT_DIR$/05-SpringMVC-07-ResponseData/05-SpringMVC-07-ResponseData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-SpringMVC-08-OtherAnnotation/05-SpringMVC-08-OtherAnnotation.iml" filepath="$PROJECT_DIR$/../05-SpringMVC-08-OtherAnnotation/05-SpringMVC-08-OtherAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-09-Ajax/05-SpringMVC-09-Ajax.iml" filepath="$PROJECT_DIR$/05-SpringMVC-09-Ajax/05-SpringMVC-09-Ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SSM-01-Wyy/06-SSM-01-Wyy.iml" filepath="$PROJECT_DIR$/06-SSM-01-Wyy/06-SSM-01-Wyy.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-01-Start/_05-SpringMVC-01-Start.iml" filepath="$PROJECT_DIR$/05-SpringMVC-01-Start/_05-SpringMVC-01-Start.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/_05-SpringMVC-02-RequestMapping.iml" filepath="$PROJECT_DIR$/05-SpringMVC-02-RequestMapping/_05-SpringMVC-02-RequestMapping.iml" />
     </modules>
