@@ -11,6 +11,8 @@
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-07-ResponseData" />
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-09-Ajax" />
     <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-02-Fp" />
+    <file type="web" url="file://$PROJECT_DIR$/07-JWT-00-Session-Cookie" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -63,6 +65,8 @@
         <option value="$PROJECT_DIR$/../05-SpringMVC-08-OtherAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/05-SpringMVC-09-Ajax/pom.xml" />
         <option value="$PROJECT_DIR$/06-SSM-01-Wyy/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-02-Fp/pom.xml" />
+        <option value="$PROJECT_DIR$/07-JWT-00-Session-Cookie/pom.xml" />
       </list>
     </option>
   </component>
