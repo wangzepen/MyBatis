@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("carousel")
+@CrossOrigin("*")
 public class CarouselController {
 
     @Autowired

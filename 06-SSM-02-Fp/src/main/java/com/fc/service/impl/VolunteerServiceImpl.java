@@ -30,7 +30,7 @@ public class VolunteerServiceImpl implements VolunteerService {
             if (id == null) {
                 PageHelper.startPage(pageNum,pageSize);
 
-                volunteerRecruitments = volunteerRecruitmentMapper.selectByExample(null);
+                volunteerRecruitments = volunteerRecruitmentMapper.selectByExampleWithBLOBs(null);
             }else {
                 VolunteerRecruitment volunteerRecruitment = volunteerRecruitmentMapper.selectByPrimaryKey(id);
 

@@ -23,7 +23,7 @@ public class MsgboardServiceImpl implements MsgboardService {
 
     @Override
     public ResultVo getlist(Integer pageNum, Integer pageSize, Long id) {
-        List<MessageBoard> messageBoards;
+        List<MessageBoardWithBLOBs> messageBoards;
 
         ResultVo resultVo;
 
@@ -31,17 +31,17 @@ public class MsgboardServiceImpl implements MsgboardService {
             if (id == null) {
                 PageHelper.startPage(pageNum,pageSize);
 
-                messageBoards = messageBoardMapper.selectByExample(null);
+                messageBoards = messageBoardMapper.selectByExampleWithBLOBs(null);
             }else {
-                MessageBoard messageBoard = messageBoardMapper.selectByPrimaryKey(id);
+                MessageBoardWithBLOBs messageBoard = messageBoardMapper.selectByPrimaryKey(id);
 
                 messageBoards = new ArrayList<>();
                 messageBoards.add(messageBoard);
             }
 
-            PageInfo<MessageBoard> pageInfo = new PageInfo<>(messageBoards);
+            PageInfo<MessageBoardWithBLOBs> pageInfo = new PageInfo<>(messageBoards);
 
-            DataVo<MessageBoard> dataVo = new DataVo<>(pageInfo.getTotal(),messageBoards,pageNum,pageSize);
+            DataVo<MessageBoardWithBLOBs> dataVo = new DataVo<>(pageInfo.getTotal(),messageBoards,pageNum,pageSize);
 
             resultVo = new ResultVo(200, "留言板获取成功", true, dataVo);
 

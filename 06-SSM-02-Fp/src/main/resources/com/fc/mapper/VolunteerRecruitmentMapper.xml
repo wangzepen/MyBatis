@@ -82,7 +82,7 @@
   </sql>
   <sql id="Base_Column_List">
     id, create_time, total, position, work_salary, work_place, work_time, recruits_num, 
-    recruits_time, recruits_end_time, lead, contact, picture, release_date, last_click_time, 
+    recruits_time, recruits_end_time, `lead`, contact, picture, release_date, last_click_time,
     click_num
   </sql>
   <sql id="Blob_Column_List">
@@ -184,7 +184,7 @@
         recruits_end_time,
       </if>
       <if test="lead != null">
-        lead,
+        `lead` ,
       </if>
       <if test="contact != null">
         contact,

@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.fc</groupId>
-    <artifactId>_06-SSM-01-Wyy</artifactId>
+    <artifactId>06-SSM-02-Fp</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>06-SSM-01-Wyy</name>
+    <name>06-SSM-02-Fp</name>
     <packaging>war</packaging>
 
     <properties>
@@ -89,6 +89,18 @@
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
             <version>1.9.7</version>
+        </dependency>
+
+        <!--文件上传依赖-->
+        <dependency>
+            <groupId>commons-fileupload</groupId>
+            <artifactId>commons-fileupload</artifactId>
+            <version>1.4</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.jersey</groupId>
+            <artifactId>jersey-client</artifactId>
+            <version>1.19.4</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>

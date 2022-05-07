@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("msgboard")
+@CrossOrigin("*")
 public class MsgboardController {
     @Autowired
     private MsgboardService msgboardService;

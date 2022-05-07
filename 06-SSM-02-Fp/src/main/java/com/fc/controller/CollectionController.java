@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("collection")
+@CrossOrigin("*")
 public class CollectionController {
     @Autowired
     private CollectionService collectionService;

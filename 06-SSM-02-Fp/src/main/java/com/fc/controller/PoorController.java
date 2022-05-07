@@ -10,9 +10,16 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("poor")
+@CrossOrigin("*")
 public class PoorController {
     @Autowired
     private PoorService poorService;
+
+    @PostMapping("click")
+    public ResultVo click(Poor poor) {
+        return poorService.click(poor.getId(), poor.getLastClickTime());
+    }
+
 
     @GetMapping("getlist")
     public ResultVo getlist(@RequestParam(value = "pageNum" ,defaultValue = "1") Integer pageNum,

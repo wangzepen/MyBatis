@@ -22,8 +22,13 @@ public class PoorServiceImpl implements PoorService {
     private PoorMapper poorMapper;
 
     @Override
+    public ResultVo click(Long id, Date lastClickTime) {
+        return null;
+    }
+
+    @Override
     public ResultVo getlist(Integer pageNum, Integer pageSize, Long id) {
-        List<Poor> poors;
+        List<PoorWithBLOBs> poor;
 
         ResultVo resultVo;
 
@@ -31,17 +36,21 @@ public class PoorServiceImpl implements PoorService {
             if (id == null) {
                 PageHelper.startPage(pageNum,pageSize);
 
-                poors = poorMapper.selectByExample(null);
+                poor = poorMapper.selectByExampleWithBLOBs(null);
             }else {
-                Poor poor = poorMapper.selectByPrimaryKey(id);
+                PoorWithBLOBs poorWithBLOBs = poorMapper.selectByPrimaryKey(id);
 
-                poors = new ArrayList<>();
-                poors.add(poor);
+                poor = new ArrayList<>();
+                poor.add(poorWithBLOBs);
+
+
+                // 如果调用了findById，应该对点击量进行加1操作
+                click(poorWithBLOBs.getId(), null);
             }
 
-            PageInfo<Poor> pageInfo = new PageInfo<>(poors);
+            PageInfo<PoorWithBLOBs> pageInfo = new PageInfo<>(poor);
 
-            DataVo<Poor> dataVo = new DataVo<>(pageInfo.getTotal(),poors,pageNum,pageSize);
+            DataVo<PoorWithBLOBs> dataVo = new DataVo<>(pageInfo.getTotal(),poor,pageNum,pageSize);
 
             resultVo = new ResultVo(200, "贫困户信息获取成功", true, dataVo);
 
@@ -75,6 +84,7 @@ public class PoorServiceImpl implements PoorService {
 
     @Override
     public ResultVo update(PoorWithBLOBs poor) {
+
         int affectedRows =  poorMapper.updateByPrimaryKeySelective(poor);
 
         ResultVo resultVo;

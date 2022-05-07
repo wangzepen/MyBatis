@@ -7,12 +7,15 @@ import com.fc.service.UserService;
 import com.fc.vo.ResultVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
+import org.springframework.web.servlet.ModelAndView;
 
 import java.util.HashMap;
 import java.util.Map;
 
 @RestController
 @RequestMapping("user")
+@CrossOrigin("*")
 public class UserController {
     @Autowired
     private UserService userService;

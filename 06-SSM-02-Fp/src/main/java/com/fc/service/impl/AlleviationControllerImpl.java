@@ -29,7 +29,7 @@ public class AlleviationControllerImpl implements AlleviationService {
             if (id == null) {
                 PageHelper.startPage(pageNum,pageSize);
 
-                alleviations = alleviationMapper.selectByExample(null);
+                alleviations = alleviationMapper.selectByExampleWithBLOBs(null);
             }else {
                 Alleviation alleviation = alleviationMapper.selectByPrimaryKey(id);
 
