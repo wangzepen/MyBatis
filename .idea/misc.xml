@@ -12,6 +12,7 @@
     <file type="web" url="file://$PROJECT_DIR$/05-SpringMVC-09-Ajax" />
     <file type="web" url="file://$PROJECT_DIR$/06-SSM-01-Wyy" />
     <file type="web" url="file://$PROJECT_DIR$/06-SSM-02-Fp" />
+    <file type="web" url="file://$PROJECT_DIR$/06-SSM-03-Diary" />
     <file type="web" url="file://$PROJECT_DIR$/07-JWT-00-Session-Cookie" />
   </component>
   <component name="MavenProjectsManager">
@@ -67,10 +68,22 @@
         <option value="$PROJECT_DIR$/06-SSM-01-Wyy/pom.xml" />
         <option value="$PROJECT_DIR$/06-SSM-02-Fp/pom.xml" />
         <option value="$PROJECT_DIR$/07-JWT-00-Session-Cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/06-SSM-03-Diary/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-01-Starter/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-02-Starter/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-08-JdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/08-springboot-09-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-10-RESTful/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-11-Exception/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-12-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-13-Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-14-FileUpload/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringBoot-19-Mail/pom.xml" />
+        <option value="$PROJECT_DIR$/09-SpringBoot-01-Eas/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
